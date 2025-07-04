@@ -40,4 +40,6 @@ This educational resource doesn't promote illegal activity.
 
 The purpose of this is to help users learn about the darkweb. We don't support any illegal actions. Always adhere to laws.
 
-Update:  26.06.2025
+
+
+Update:  04.07.2025 04:25:25 Document links
