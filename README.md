@@ -48,4 +48,6 @@ The purpose of this is to help users learn about the darkweb. We don't support a
 
 
 
-Update:  18.07.2025 14:49
+
+
+Update: Invalid URLs
