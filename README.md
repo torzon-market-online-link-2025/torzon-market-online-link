@@ -50,4 +50,6 @@ The purpose of this is to help users learn about the darkweb. We don't support a
 
 
 
-Update: Invalid URLs
+
+
+Update:  24.07.2025 Fixed broken external url
