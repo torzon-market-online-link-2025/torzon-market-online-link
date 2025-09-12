@@ -4,11 +4,11 @@
 
 ## Finding the TorZon Market Online Link
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion
 
-[<img src="/base/capture.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/base/capture.webp" width="200">](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/base/system.webp" alt="TorZon Market Online Link" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/base/system.webp" alt="TorZon Market Online Link" style="max-width: 100%;"></a>
 
 This educational resource doesn't promote illegal activity.
 
@@ -60,4 +60,6 @@ The purpose of this is to help users learn about the darkweb. We don't support a
 
 
 
-Update:  23 August
+
+
+Update:  Friday 12 September 2025
